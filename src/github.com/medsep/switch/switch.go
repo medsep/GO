@@ -11,7 +11,7 @@ func main() {
 		}
 	}*/
 
-	for day := 1; day <= 12; day++ {
+	for day := 2; day <= 12; day++ {
 		switch day {
 		case 12:
 			fmt.Println("12th Day")
